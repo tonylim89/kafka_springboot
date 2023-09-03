@@ -1,4 +1,4 @@
-# kafka_demo
+# kafka springboot
 
 This demo is done using Kafka, Springboot, and React.js and is done to demonstrate event-driven microservice architecture using Kafka.
 
